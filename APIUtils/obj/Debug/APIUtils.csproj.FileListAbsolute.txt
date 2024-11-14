@@ -1,0 +1,6 @@
+C:\Users\narala_siddhartha\source\repos\ApiTestAutomationFramework\APIUtils\bin\Debug\APIUtils.dll
+C:\Users\narala_siddhartha\source\repos\ApiTestAutomationFramework\APIUtils\bin\Debug\APIUtils.pdb
+C:\Users\narala_siddhartha\source\repos\ApiTestAutomationFramework\APIUtils\obj\Debug\APIUtils.csproj.AssemblyReference.cache
+C:\Users\narala_siddhartha\source\repos\ApiTestAutomationFramework\APIUtils\obj\Debug\APIUtils.csproj.CoreCompileInputs.cache
+C:\Users\narala_siddhartha\source\repos\ApiTestAutomationFramework\APIUtils\obj\Debug\APIUtils.dll
+C:\Users\narala_siddhartha\source\repos\ApiTestAutomationFramework\APIUtils\obj\Debug\APIUtils.pdb
